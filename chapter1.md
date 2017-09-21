@@ -2,6 +2,10 @@
 
 GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
 
+&lt;!-- toc --&gt;
+
+&lt;!-- toc --&gt;
+
 ## Second Chapter within a Bok
 
 alsdkfjlaj
@@ -10,11 +14,7 @@ adlkfjal
 
 lkjfdk
 
-
-
 adkfjalskdj
-
-
 
 aldkjf
 
@@ -26,15 +26,11 @@ akldjflaj
 
 ldksfjl
 
-
-
 lkadsjf
 
 ## Hers too
 
 fkjadljfl
-
-
 
 asdlfkjal
 
@@ -61,8 +57,4 @@ aldjfalk
 aldkfja
 
 aldskjfla
-
-
-
-
 
